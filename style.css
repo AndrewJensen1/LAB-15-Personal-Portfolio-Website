@@ -1,0 +1,55 @@
+.divClass{
+    background-color: blue;
+    text-align: center;
+    font-size: 75px;
+}
+#byitself{
+    background-color: lightgreen;
+    text-align: center;
+    font-size: 40px;
+}
+#LinksTitle{
+    font-size: 60px;
+    color: blue;
+}
+#DevelopmentLink{
+    font-size: 45px;
+    color: black;
+}
+#HometownLink{
+    font-size: 45px;
+    color: black;
+}
+#ContactInfo{
+    font-size: 45px;
+    color: black;
+}
+.divClassDev{
+    background-color: blue;
+    text-align: center;
+    font-size: 75px;
+}
+#DevId{
+    background-color: green;
+    text-align: center;
+    font-size: 40px;
+}
+#divGitHub{
+    font-size: 45px;
+    text-align: center;
+    color: black;
+}
+.HometownDev{
+    background-color: blue;
+    text-align: center;
+    font-size: 200px;
+}
+#HometownId{
+    background-color: green;
+    text-align: center;
+    font-size: 125px;
+}
+img{
+    height: 1750px;
+    width: 1750px;
+}
